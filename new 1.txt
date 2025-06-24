@@ -1,5 +1,5 @@
 programa{
   funcao inicio(
   real n1, n2
-  escreva("intervalo")
+ 
 }
