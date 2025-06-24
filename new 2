@@ -1,0 +1,11 @@
+programa{
+  funcao inicio(
+  real n1, n2, soma
+ escreva("informe o primeiro numero; ")
+ leia(n1)
+ escreva("informe o segundo numero; ")
+ leia(n2)
+ soma=n1+n2
+ escreva("soma: ",soma")
+ 
+}
