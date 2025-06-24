@@ -1,11 +1,19 @@
 programa{
   funcao inicio(
-  real n1, n2, soma
+  programa{
+  funcao inicio(
+  real n1, n2, soma, mult,div
  escreva("informe o primeiro numero; ")
  leia(n1)
  escreva("informe o segundo numero; ")
  leia(n2)
  soma=n1+n2
  escreva("soma: ",soma")
+ mult=n1*n2
+ escreva("multiplicacao: ",mult)
+ div=n1/n2
+ escreva("divisao: ",div)
  
+ 
+}
 }
